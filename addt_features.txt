@@ -1,0 +1,132 @@
+## ACTION KEYWORDS
+    
+#  2.1 Attach
+# 2.2 Counter
+# 2.3 Exile
+# 2.4 Fight
+# 2.5 Regenerate
+# 2.6 Sacrifice
+# 2.7 Tap/Untap
+ 
+# ability words
+ 
+#  4.1 Battalion
+# 4.2 Bloodrush
+# 4.3 Channel
+# 4.4 Chroma
+# 4.5 Domain
+# 4.6 Fateful hour
+# 4.7 Ferocious
+# 4.8 Grandeur
+# 4.9 Hellbent
+# 4.10 Heroic
+# 4.11 Imprint
+# 4.12 Join forces
+# 4.13 Kinship
+# 4.14 Landfall
+# 4.15 Metalcraft
+# 4.16 Morbid
+# 4.17 Radiance
+# 4.18 Raid
+# 4.19 Sweep
+# 4.20 Threshold
+ 
+#  expert keywords
+ 
+#  3.1 Absorb
+# 3.2 Affinity
+# 3.3 Amplify
+# 3.4 Annihilator
+# 3.5 Aura swap
+# 3.6 Banding
+# 3.7 Bands with other
+# 3.8 Battle cry
+# 3.9 Bestow
+# 3.10 Bolster
+# 3.11 Bloodthirst
+# 3.12 Bushido
+# 3.13 Buyback
+# 3.14 Cascade
+# 3.15 Champion
+# 3.16 Changeling
+# 3.17 Cipher
+# 3.18 Clash
+# 3.19 Conspire
+# 3.20 Convoke
+# 3.21 Cumulative upkeep
+# 3.22 Cycling
+# 3.23 Dash
+# 3.24 Delve
+# 3.25 Detain
+# 3.26 Devour
+# 3.27 Dredge
+# 3.28 Echo
+# 3.29 Entwine
+# 3.30 Epic
+# 3.31 Evolve
+# 3.32 Evoke
+# 3.33 Exalted
+# 3.34 Exploit
+# 3.35 Extort
+# 3.36 Fading
+# 3.37 Fateseal
+# 3.38 Fear
+# 3.39 Flanking
+# 3.40 Flashback
+# 3.41 Flip
+# 3.42 Forecast
+# 3.43 Fortify
+# 3.44 Frenzy
+# 3.45 Graft
+# 3.46 Gravestorm
+# 3.47 Haunt
+# 3.48 Hideaway
+# 3.49 Horsemanship
+# 3.50 Infect
+# 3.51 Kicker
+# 3.52 Level up
+# 3.53 Living weapon
+# 3.54 Madness
+# 3.55 Manifest
+# 3.56 Miracle
+# 3.57 Modular
+# 3.58 Monstrosity
+# 3.59 Morph
+# 3.60 Multikicker
+# 3.61 Ninjutsu
+# 3.62 Offering
+# 3.63 Overload
+# 3.64 Persist
+# 3.65 Phasing
+# 3.66 Poisonous
+# 3.67 Populate
+# 3.68 Proliferate
+# 3.69 Provoke
+# 3.70 Prowl
+# 3.71 Rampage
+# 3.72 Rebound
+# 3.73 Recover
+# 3.74 Reinforce
+# 3.75 Replicate
+# 3.76 Retrace
+# 3.77 Ripple
+# 3.78 Scavenge
+# 3.79 Scry
+# 3.80 Shadow
+# 3.81 Soulbond
+# 3.82 Soulshift
+# 3.83 Splice
+# 3.84 Split second
+# 3.85 Storm
+# 3.86 Sunburst
+# 3.87 Suspend
+# 3.88 Totem armor
+# 3.89 Transfigure
+# 3.90 Transform
+# 3.91 Transmute
+# 3.92 Typecycling
+# 3.93 Undying
+# 3.94 Unearth
+# 3.95 Unleash
+# 3.96 Vanishing
+# 3.97 Wither
