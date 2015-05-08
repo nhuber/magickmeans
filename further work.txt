@@ -10,3 +10,6 @@
 # single sets
 
 # predictors of popularity
+
+# obtains golem should probably be a creature
+# why is the mountain such an outlier
